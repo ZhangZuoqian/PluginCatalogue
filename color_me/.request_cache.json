@@ -1,0 +1,115 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"f7de2fa3482c06d89d57b746316547a86ab0e52f47a7cac9d1ee91a7b73d44bd\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIALOEg2oC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "309727353": {
+      "meta": {
+        "schema_version": 4,
+        "id": "color_me",
+        "name": "ColorMe",
+        "version": "1.0.2",
+        "link": "https://github.com/Apricityx/ColorMe",
+        "authors": [
+          "Apricityx_"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.14.7"
+        ],
+        "description": {
+          "en_us": "Players can change their name color by themselves!",
+          "zh_cn": "让玩家自行更改名字颜色！"
+        }
+      },
+      "size": 18259,
+      "hash_md5": "440559898522316890bbba116ef385b1",
+      "hash_sha256": "a1f1eb2034463a50bdb10340c121acbee0ecece90b4afa3e6d8703c047f0ad47",
+      "ttl": 100
+    },
+    "146895906": {
+      "meta": {
+        "schema_version": 4,
+        "id": "colorful_id",
+        "name": "Colorful ID",
+        "version": "1.0.0",
+        "link": "https://github.com/Apricityx/ColorfulID",
+        "authors": [
+          "Apricityx_"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Colorful player names!",
+          "zh_cn": "让玩家的名字五颜六色！"
+        }
+      },
+      "size": 8294725,
+      "hash_md5": "dceb789edbef4811a472c1c8c6589d4f",
+      "hash_sha256": "78ba6df66b6aeba9a5fe84f60d5832a37821a6271a74865179f58ea93ce9c9b6",
+      "ttl": 100
+    },
+    "560585675": {
+      "meta": {
+        "schema_version": 4,
+        "id": "color_me",
+        "name": "ColorMe",
+        "version": "1.1.0",
+        "link": "https://github.com/Apricityx/ColorMe",
+        "authors": [
+          "Apricityx_"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.15.7"
+        ],
+        "description": {
+          "en_us": "Players can change their name color by themselves!",
+          "zh_cn": "让玩家自行更改名字颜色！"
+        }
+      },
+      "size": 15789,
+      "hash_md5": "3c58ffb67bc94ff733723df7196e5a60",
+      "hash_sha256": "1afb687cb644f0a4b8a76c6c466a2b764f6ec6331a321baece806a6126c56dc3",
+      "ttl": 100
+    },
+    "560587971": {
+      "meta": {
+        "schema_version": 4,
+        "id": "color_me",
+        "name": "ColorMe",
+        "version": "1.1.0",
+        "link": "https://github.com/Apricityx/ColorMe",
+        "authors": [
+          "Apricityx_"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.15.7"
+        ],
+        "description": {
+          "en_us": "Players can change their name color by themselves!",
+          "zh_cn": "让玩家自行更改名字颜色！"
+        }
+      },
+      "size": 15789,
+      "hash_md5": "256fc5d17da2e2cce4d00e44b1397506",
+      "hash_sha256": "509a3ddeb079ed0fb6cf8be373a496a1f23013e73f569721713f968bf9abb161",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"4d82c4d02dacb9757c72e1cedbb6f47b56e730062e8d3434265f73648004fd09\"",
+    "data": "H4sIAEXQuGoC/6VYW2/bNhT+K4Ffl1i+JzFQdMMCZA9Jlw7pNmQZBEqiLMYUqZGUXUfwf9/hRbLoNm0tvcjWEb+PhzwXnsNqQJLB8uxytpjMJ7PF5fnZgPEEh0Y6+CNcr25+v/tNcLkd6E8ox1r+K6dc3GMtSktKw1r+SyFITNTuc9AaAbINUvp7iqjEIOFbhgW8VwPKV4R5SI2wKl1NZpPR9NrX6P7m4+LPvz/Q+CWe3b983N3f3M81BMEUSISloHpUplQhl0FgpXK4Iioro1JiEXOmMFPDmOdBGdRzvN+8m2mWlXA8djItOmYsiGOzFEApA0/5TOX0WI8Wwhubckr5FijCk6YJGtyBhLBVJxLAVQFXGYbNgwF7sw1EqlNVMpjK/MDuGRoJOylwciKRQ4FS2kv2VSBwwS1fGclYkEIRzk5Vz8NqMi5WiJFX1IUMsIZDa3Yq1mA0GG/AD09FW1AVmJiKd3urRYzJBva5E+MRWhOqXWGi+RMMNSEAv+GG4G1YfynKiJLY2IQoHKIkN1Fs4nt/Qgy000SCGwNp2HN5FaHr53I+GyXwjOaXz+UMX8/gf7oA+WJ+PTbP6XOZpqOxjQSxbqWZb2+EMcTXVdE839vHN+CBwWqSNd515dDQSj/rSIohVFHEBVJcdCX1OCrv1cyhMMq7chusSX6cd945gzXpX8oS/5g3v8VlKGQTLqzMI5fbetEeYgRJSVYM465MDb4KmrQbCcTirDNlDa/cP2tVtOpsVGSzXER51JUDhgQGXwUyQ+5wUWEPrTSjhvuEAqd9CDX8QKhEd7sa9YSxa00HB5oCG3dlrOFBVRNSxFYlWnVmbPD1Ib1Cr1j00M8R2EzFlCBR2StRHShax37UQ8UDw3Ed0Y/RnlZm2XlOVPcVG7Tv0v0otR9+QasFPbJfDffyqU3W7lO/bP1Vflew93EmDQ+qnwqksnobCiRw913Q6KCKEBQ7w+GwyjCyx3SORfeotGBztog4g5KsI09Vw6ESyZEyBXRq1EugoqYcJV01bPCN3fsdz56dC+gju9IZrMeWE4ql4qy7NRoCj5dxRVIS/1DX8Ba1x1G9l4TF+BxReg5upWAs+Ck0ZS7TR5h2T/MaDOpDc+4aBYpR94OohleBq0oTXFC+65NRWgwmMAVGCloRpDTXZDSZXYzGF5Px43i2nCyW4/mTaUeKxB+1uBhdX4ynj6PZcj5dji+frD/J7ItBk8vH0Xw5mgLbU51nnebw9ztNil6QOT5k1gL9fIAs34TEFDzplIaomWvDTu2jMp7jAk53wDCIC9Ojveq3q6l/3Me8ZHp3tHiLFJSOR8K6TtCzP+xUZo+6DMnQxi/IlSixkxWCv+BYHUkPOePQl2n5lqzJEd5UJP6ohMi4hEpZ9+yHL7Y9qzUdmXAXgte3P27VLg0mLSDQoYh6Il5g5pbTMOpLMGhvMZPYXFJBI2aMXdCL6XDUvge7/fDp7BYzLBA9ezA98dmdBZ5t3FBZJJ/dddLtw11N8O1wcZPLoD1l+w4sXjze0penv+avT4/rdwPdciN9maNz/hqSx2FniQwVzgvqX8BtceTqi1C3ITxNoYL+ryTC2xtjFX29p79BNmyZti0OTdjqWqrgoLnZK9DGVNK8ILGG/fMvvG2IJBGh4LD+HYJtma0lW/Zwlqhd0zllglNUUhXaHkcT5Ugqe1FRYJGTxl2qgXcvod0EEaaQJ9JpovUKhad1+MN3St2y96ZJzovQRrPia8zqW0KG1RZW4Tllu26t5eP9//GnbwpxFQAA"
+  }
+}

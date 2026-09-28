@@ -1,0 +1,154 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"833e453577e084c3310317386514e58e52741775d6acf7a1f934e8b3967f7744\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAGaFt2oC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "581156610": {
+      "meta": {
+        "schema_version": 4,
+        "id": "backup_to_nas",
+        "name": "Backup To Nas",
+        "version": "0.1.4",
+        "link": null,
+        "authors": [
+          "renzaifei"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.10.0",
+          "paramiko>=3.4.0"
+        ],
+        "description": {
+          "en_us": "Package the save backup as a ZIP archive and transfer it to the remote NAS using the SFTP protocol.",
+          "zh_cn": "将存档打包为 ZIP，并通过 SFTP 传输到远程 NAS。"
+        }
+      },
+      "size": 11548,
+      "hash_md5": "c13cd11241d2299f70b8f14fce18173a",
+      "hash_sha256": "aa47b8c2583577ea984c408d181054aaf89f7af895e25ce17418e0168230b013",
+      "ttl": 100
+    },
+    "580358547": {
+      "meta": {
+        "schema_version": 4,
+        "id": "backup_to_nas",
+        "name": "Backup To Nas",
+        "version": "0.1.3",
+        "link": null,
+        "authors": [
+          "renzaifei"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.10.0",
+          "paramiko>=3.4.0"
+        ],
+        "description": {
+          "en_us": "Package the save backup as a ZIP archive and transfer it to the remote NAS using the SFTP protocol.",
+          "zh_cn": "将存档打包为 ZIP，并通过 SFTP 传输到远程 NAS。"
+        }
+      },
+      "size": 8613,
+      "hash_md5": "f226fdba2f9b5a58d47dcd0284f34fe5",
+      "hash_sha256": "21c33c6fdb897eb3c300de591a162c8f1288c124e2af8821e462357cd822b1ff",
+      "ttl": 100
+    },
+    "580344079": {
+      "meta": {
+        "schema_version": 4,
+        "id": "backup_to_nas",
+        "name": "Backup To Nas",
+        "version": "0.1.2",
+        "link": null,
+        "authors": [
+          "renzaifei"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.10.0",
+          "paramiko>=3.4.0"
+        ],
+        "description": {
+          "en_us": "Package the save backup as a ZIP archive and transfer it to the remote NAS using the SFTP protocol.",
+          "zh_cn": "将存档打包为 ZIP，并通过 SFTP 传输到远程 NAS。"
+        }
+      },
+      "size": 11529,
+      "hash_md5": "d8286c862b75ee117e1f7814a2b2b5c3",
+      "hash_sha256": "9bcbe7b6759d9438ecbbdc18f35c000a106975740491ca5c5450c813ae6c3c8e",
+      "ttl": 100
+    },
+    "580256159": {
+      "meta": {
+        "schema_version": 4,
+        "id": "backup_to_nas",
+        "name": "Backup To Nas",
+        "version": "0.1.1",
+        "link": null,
+        "authors": [
+          "renzaifei"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.10.0",
+          "paramiko>=3.4.0"
+        ],
+        "description": {
+          "en_us": "Package the save backup as a ZIP archive and transfer it to the remote NAS using the SFTP protocol."
+        }
+      },
+      "size": 8835,
+      "hash_md5": "182788f991608c1b2fb392f653e0e643",
+      "hash_sha256": "50546c3b33412c6e71038a06c5e4e31de702ff4f9b81d5a7b249b36a96c45385",
+      "ttl": 100
+    },
+    "580236749": {
+      "meta": {
+        "schema_version": 4,
+        "id": "backup_to_nas",
+        "name": "Backup To Nas",
+        "version": "0.1.0",
+        "link": null,
+        "authors": [
+          "renzaifei"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.10.0",
+          "paramiko>=3.4.0"
+        ],
+        "description": {
+          "en_us": "Package the save backup as a ZIP archive and transfer it to the remote NAS using the SFTP protocol."
+        }
+      },
+      "size": 8798,
+      "hash_md5": "ac0eb076243a7eaefb9ea0c185e78e01",
+      "hash_sha256": "786b259dffbfc29115a2da3f4851c9f0a88196468233f96a83e73787f88eab41",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"467dd2f65a8cd29d2862f1beab2475f143d1022666c2a6db326009c9a6a87be7\"",
+    "data": "H4sIAM76uWoC/+2ZUW/bNhCA/4rg1yWW7aSua2DoNqTLuqVJtrgY4GEQKOkssaZIjaTsOoL/+46UZEte03kx95aXNjqJ3x3J4/HuXPZo3Jt6w4vJYDwZvh6Pz7weFzEEVtz7LVgmV3cfl8X7n5OeeUUyMPIfSLQs8pm4JcqIFwVjQfPu4eqX8w+UQyTJQp8/gFyB9A8G5JKuiDafLwhTgBKx5iDxuewxkVD+FMgMtqaNJqPJ6+Gr8ZuuwXfW4He3n39696v5lqAaIoNCMvM21TpXU9+vpKqfUJ0WYaFARoJr4Loficwv/B387erbS4NJZA2qtBjRITKnNa5iIFP5T80g1Rk7tKk1+KlhC8GYWCM4eK5yf4fY8yhPTuUhovSFTgFXGr/d2iWjSp9gqB1e2v9w0S1R4QZIiJ/PrAFoqnG2belLyEWFLkIVSZprKvgJRncwhitkQjh9JCdyEWNxxt4TMHa44cAKff0EUDW+9O0xjjbbyrYI6Aq351T4Aciw9Sa3oeWutZz2DCIlWFFYB80XeREyGtktpRoCEmc2ltgos33eyTuMXTHs9thQ7vEtScBD7/cUWYEX2s89ojzizd/fe0RGKc7HIzz2tCRcLUB6VHta2DESMqHBu/3+wSsUHiQrfPhxdu/lUmgRCdavzqpctsLl11fXbvRRkzHYf9ur42i+RRnmEjaOkIZUmn+bEICrwUgoJNFCOtLRQZadR6tSA8kcqbIoG/+FcLXqFmVvRaUKOO7wHYm2RLU77LzIwjq2u9SyP+VEKZpwAEfgHa70d5dSiOcvSl1paGhl/VflLyRx5S6kivohE6EjJI7wLa70VUrqe1oH7mw2Cgyty5ewcMg3tD1fS2ceY42X1mMaOqYMGr3HkYKG5pcNnxGeFHh9OFKwwzX5UkIeQbqzvuZVoZhrScPCZSTeE1tJWehuAnvgYdLnVEHe5Cc4NKPa2fJYWPdkOdVg/P8fWozAXbRvaJ3rpLq66ldO764vqqtrPYdea2h++U1OdNqsWU4kOFsyA/PLkGAO2+/3yxRIlQ5lIJ2Fjopl7+EqYXWDLRsapocZ0bboWljjY6zCmCCxI/t3uJ1HOU2DOh6UF4w5oltUB55RBkoL7mxjd7yOGi40XdDoqNL0SE0dZPkWq5kIzghjZ+i/mkYUzwcWOPW9FwJzdukZFk6OZFCXogyIs0u7oZV+XYTEkDOxcRgUW0AbPSQQjfUv0QY9GozG54M356PRbDCYXgynw8Hc1r55/KWvJrPBaHo5mF4O55WnqvTpjy4m8+YiqSeCf/63ithM116mKm0xvtsTpscSIoY+ekJtvrNkxU+s8FORQY5ZFCI4Hk/bTHg0TxeX3bQqEgU3KztA8ZporAUOhE0+ZhsFG51WaUFKVFBFFZRrWUAtw4L/E0T6QLoPbPvy38jXdEkPxtvMr/tVTFVUYCVkGlL7N1XZ37Y0o1KKplFaz7oO3XFrIOJIyDoikQOvp9OdO42AK7A9XSzhzRKwJGfnF/1Bu5V8ffvRuwGFFZp3DRwkYd69beJ4NxXAW9UjVB5/rhuwN9f3Nw3o60ewtgKjRFv3vmH84Soaz67Zp/nvrx7ns3ebnukSEdPUNDfWEuPVfo2pCjRkOet2rtcQ1mlYYApOsVhgvfNXQWVnlez+mDa5eYfxuLXJbXFgD79JSHOBpttVQ2tsoSNyGplhf/yJTyuqaEgZ1Ztu26vqwlQ70NqZAyetH2NYkILpoCpfDagOdjZ0gMzoznPKXqeXZjyGUK5JR2SiTesRs/nK9/fvGavnvbWtlSwPqmOvxRJ401pHh9UiM8cBbdDUWl9uD9qpL78VvPxW8PJbwctvBf/fbwUc9BqjaedSa/ckGvlw+zdvKIf3Rh0AAA=="
+  }
+}
